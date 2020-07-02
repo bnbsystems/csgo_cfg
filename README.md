@@ -7,4 +7,4 @@ Steam > Library > Counter-Strike: Global Offensive (right-click) > Properties > 
 ```console
  -console -novid -high -threads 4 +exec autoexec.cfg -tickrate 128 -refresh 144
  ```
-1. Have fun
+# Have fun
